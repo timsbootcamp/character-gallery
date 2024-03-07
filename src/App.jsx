@@ -1,4 +1,4 @@
-import CharacterGallery from './components/CharacterGallery';
+import CharacterGallery from './Components/CharacterGallery';
 import './App.css';
 
 function App() {

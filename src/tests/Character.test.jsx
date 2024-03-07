@@ -1,5 +1,5 @@
 import { render, screen } from '@testing-library/react';
-import Character from '../components/Character';
+import Character from '../Components/Character';
 
 const samwiseGamgee = {
     "_id": "5cd99d4bde30eff6ebccfd0d",
